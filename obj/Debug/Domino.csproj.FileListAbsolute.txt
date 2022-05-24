@@ -1,0 +1,53 @@
+C:\курсовая работа\Domino\obj\Debug\Domino.csproj.AssemblyReference.cache
+C:\курсовая работа\Domino\obj\Debug\Domino.Form1.resources
+C:\курсовая работа\Domino\obj\Debug\Domino.Properties.Resources.resources
+C:\курсовая работа\Domino\obj\Debug\Domino.csproj.GenerateResource.cache
+C:\курсовая работа\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\курсовая работа\Domino\obj\Debug\Domino.Form2.resources
+C:\курсовая работа\Domino\obj\Debug\Domino.Form3.resources
+C:\курсовая работа\Domino\bin\Debug\Domino.pdb
+C:\курсовая работа\Domino\obj\Debug\Domino.pdb
+C:\курсовая работа\Domino\obj\Debug\Domino.csproj.SuggestedBindingRedirects.cache
+C:\курсовая работа\Domino\bin\Debug\Domino.exe.config
+C:\курсовая работа\Domino\bin\Debug\Domino.exe
+C:\курсовая работа\Domino\obj\Debug\Domino.exe
+C:\курсовая работа\Domino\obj\Debug\Domino.Form4.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Sprites\bones_set.jpg
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Sprites\dominos.png
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Sprites\undefined_domino.png
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Domino.exe.config
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Domino.exe
+C:\Users\Екатерина\Desktop\Domino1\Domino\bin\Debug\Domino.pdb
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form1.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form2.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form3.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form4.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.exe
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.pdb
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form5.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form6.resources
+C:\Users\Екатерина\Desktop\Domino1\Domino\obj\Debug\Domino.Form7.resources
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Sprites\bones_set.jpg
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Sprites\dominos.png
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Sprites\undefined_domino.png
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Domino.exe.config
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Domino.exe
+C:\Users\Екатерина\Desktop\Domino\bin\Debug\Domino.pdb
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form1.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form2.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form3.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form4.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form5.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Form6.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.exe
+C:\Users\Екатерина\Desktop\Domino\obj\Debug\Domino.pdb
